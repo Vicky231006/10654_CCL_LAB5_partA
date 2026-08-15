@@ -1,0 +1,10 @@
+configuration.php
+configuration.php.local-backup
+.env
+*.pem
+*.key
+backup/
+cache/
+administrator/cache/
+logs/
+tmp/
